@@ -1,6 +1,6 @@
-## ROenglishRE
+## ROFrenchRE
 
-[ROenglishRE](https://rathena.org/board/topic/102689-ragnarok-english-translation-project/) is an unofficial english translation (Fan translation) project for Korea Ragnarok Online Renewal that focused on translating items, skills and textures.
+[ROFrenchRE] est un projet de traduction non officiel pour Korea Ragnarok Online Renewal.
 
 Note: this project should be considered as educational purposes only, any commercial or illegal use by people or group aren't author's responsibilities.
 
